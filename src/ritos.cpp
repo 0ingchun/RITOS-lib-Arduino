@@ -4,8 +4,6 @@
   Ritos.cpp - esp8266的RTOS库的esp8266核心为Arduino IDE
   基于Ivan Grokhotkov的Ticker库
 */
- 
- 
 
 #include <stddef.h>
 #include <stdint.h>
