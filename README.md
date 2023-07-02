@@ -1,6 +1,6 @@
-# RITOS
+# RITOS / 互聯網時間操作系統
 
-https://github.com/0ingchun/RITOS-lib-Arduino
+<https://github.com/0ingchun/RITOS-lib-Arduino>
 
 Real Internet Time Operation System (RITOS). An RTOS library of the esp8266 core for Arduino IDE.
 
@@ -8,7 +8,7 @@ Real Internet Time Operation System (RITOS). An RTOS library of the esp8266 core
 
 ————————————————
 
-** Development environment / 開發環境 **
+**Development environment / 開發環境**
 
 Arduino IDE， PlatformIO
 
@@ -18,7 +18,7 @@ Adapt for ( esp8266, esp8266-12f, esp8266-12e, esp01, esp01s )
 
 ————————————————
 
-## ** Start / 開始 **
+## **Start / 開始**
 
 1. Installation library file / 安裝庫文件
 
@@ -42,7 +42,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 ————————————————
 
-** Attention / 注意 **
+**Attention / 注意**
 
 Use RITOS Note the Main Points:
 
@@ -73,7 +73,7 @@ please refer to Demo (RITOS-esp8266./examples/RITOSbasic/RITOSbasic.ino)
 
 ————————————————
 
-** Thanks / 鳴謝 **
+**Thanks / 鳴謝**
 
 Original Author : [SanUSB grupo](https://github.com/SanUSB-grupo) <http://sanusb.org/>
 
@@ -83,4 +83,6 @@ Original Author : [SanUSB grupo](https://github.com/SanUSB-grupo) <http://sanusb
 
 修改，打包，注釋等
 
-Modify, Package, Comment, etc by 0. Chun   <- a Runoob 一隻菜鳥
+Modify, Package, Comment, etc
+
+by 0. Chun   <- a Runoob 一隻菜鳥
