@@ -1,9 +1,9 @@
-/**************************sanusb.org*********************************
+/*********************************************************************
   Ritos.cpp - esp8266 RTOS library of the esp8266 core for Arduino IDE
   based on Ticker library of Ivan Grokhotkov  
   Ritos.cpp - esp8266的RTOS库的esp8266核心为Arduino IDE
   基于Ivan Grokhotkov的Ticker库
- ********************************************************************/
+*********************************************************************/
 
 #ifndef RITOS_H
 #define RITOS_H
