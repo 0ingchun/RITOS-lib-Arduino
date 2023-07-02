@@ -1,4 +1,5 @@
 # RITOS / 互聯網時間操作系統
+ for ESP8266 in Arduino
 
 <https://github.com/0ingchun/RITOS-lib-Arduino>
 
