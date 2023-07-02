@@ -17,7 +17,7 @@ void thread1() {
    Serial.println("Interrupt thread 1!");
     
    // Attention! Delay() cannot be used within the thread / 注意！綫程内不允許使用Delay()
-   a = 1500; // 1500ms. You can be used in this way instead of Delay(); 您可以通過此方法延時，代替Delay();
+   a = 1500; // 1500ms. You can be used in this way instead of Delay(1500); 您可以通過此方法延時，代替Delay(1500);
    statemachine=1;
   }
 
