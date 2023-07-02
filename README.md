@@ -7,18 +7,24 @@ Real Internet Time Operation System (RITOS). An Esp8266 RTOS library of the esp8
 
 ————————————————
 
+Please download.zip and import
+
+請下載.zip並導入
+
 Arduino IDE
 
-Platformio
+PlatformIO
 
 Adapt for ( esp8266, esp8266-12f, esp8266-12e, esp01, esp01s )
 
 適用於 ( esp8266, esp8266-12f, esp8266-12e, esp01, esp01s )
 
 Add the source download esp8266 development board : 
+
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 新增該源下載esp8266開發板：
+
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 ————————————————
