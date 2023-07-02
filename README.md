@@ -89,3 +89,7 @@ Heartfelt thanks! To learn from you and salute.
 Modify, Package, Comment, etc
 
 - by *0. Chun*   <- a Runoob 一隻菜鳥
+
+————————————————
+
+[MIT License](https://github.com/0ingchun/RITOS-lib-Arduino/blob/main/LICENSE)
