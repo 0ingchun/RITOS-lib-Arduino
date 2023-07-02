@@ -9,7 +9,7 @@ Real Internet Time Operation System (RITOS). An RTOS library of the esp8266 core
 
 ————————————————
 
-**Development environment / 開發環境**
+**Development Environment / 開發環境**
 
 Arduino IDE， PlatformIO
 
