@@ -45,7 +45,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 **Attention / 注意**
 
-Use RITOS Note the Main Points:
+- Use RITOS Note the Main Points:
 
 1. Declare the Ritos class before creating the thread
 
@@ -59,7 +59,7 @@ If you want to use the delay function in the thread,
 please refer to Demo (RITOS-esp8266./examples/RITOSbasic/RITOSbasic.ino)
 
 
-使用RITOS注意要點：
+- 使用RITOS注意要點：
 
 1. 建立線程前要先聲明Ritos的類
 
@@ -76,7 +76,7 @@ please refer to Demo (RITOS-esp8266./examples/RITOSbasic/RITOSbasic.ino)
 
 **Thanks / 鳴謝**
 
-Original Author : [SanUSB grupo](https://github.com/SanUSB-grupo) <http://sanusb.org/>
+*Original Author* : [SanUSB grupo](https://github.com/SanUSB-grupo) <http://sanusb.org/>
 
 [Original Project Link](https://github.com/SanUSB-grupo/RITOS)
 
@@ -86,4 +86,4 @@ Original Author : [SanUSB grupo](https://github.com/SanUSB-grupo) <http://sanusb
 
 Modify, Package, Comment, etc
 
-by 0. Chun   <- a Runoob 一隻菜鳥
+- by *0. Chun*   <- a Runoob 一隻菜鳥
