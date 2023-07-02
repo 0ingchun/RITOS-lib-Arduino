@@ -76,6 +76,8 @@ please refer to Demo (RITOS-esp8266./examples/RITOSbasic/RITOSbasic.ino)
 
 **Thanks / 鳴謝**
 
+Heartfelt thanks! To learn from you and salute.
+
 *Original Author* : [SanUSB grupo](https://github.com/SanUSB-grupo) <<http://sanusb.org>>
 
 [Original Project Link](https://github.com/SanUSB-grupo/RITOS)
