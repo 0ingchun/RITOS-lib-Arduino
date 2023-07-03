@@ -47,4 +47,4 @@ public:
 	ETSTimer* _timer;
 };
 
-#endif/
+#endif
