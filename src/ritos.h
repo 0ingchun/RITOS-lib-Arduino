@@ -8,11 +8,6 @@
 #ifndef RITOS_H
 #define RITOS_H
 
-#ifndef NOP
-#define NOP do { __asm__ __volatile__ ("nop"); } while (0)
-// Treat NOP; as a function that runs empty instructions / 將 NOP; 作爲一個運行空指令的函數
-#endif
-
 #include <stdint.h>
 #include <stddef.h>
 
@@ -52,4 +47,9 @@ public:
 	ETSTimer* _timer;
 };
 
+#endif
+
+#ifndef NOP
+#define NOP do { __asm__ __volatile__ ("nop"); } while (0)
+// Treat NOP; as a function that runs empty instructions / 將 NOP; 作爲一個運行空指令的函數
 #endif
